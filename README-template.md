@@ -2,17 +2,20 @@
 
 <!--- Replace <OWNER> with your Github Username and <REPOSITORY> with the name of your repository. -->
 <!--- You can find both of these in the url bar when you open your repository in github. -->
-![Workflow result](https://github.com/<OWNER>/<REPOSITORY>/workflows/Check/badge.svg)
+![Workflow result](https://github.com/sudhirkhanger/BarkOn/workflows/Check/badge.svg)
 
 
 ## :scroll: Description
 <!--- Describe your app in one or two sentences -->
+BarkOn is Dog adoption app built using Jetpack Compose.
 
 
 ## :bulb: Motivation and Context
 <!--- Optionally point readers to interesting parts of your submission. -->
 <!--- What are you especially proud of? -->
+I am very excited about how Jetpack Compose enables me to take my skills to multiple platforms. I am learning Compose at this time before the release so that I am able to see how it evolved as a UI toolkit which should help me be able to create awesome UI using the right components.
 
+I am glad I built it without using Fragments.
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
@@ -20,7 +23,7 @@
 
 ## License
 ```
-Copyright 2020 The Android Open Source Project
+Copyright 2021 The Android Open Source Project
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
